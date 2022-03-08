@@ -22,6 +22,5 @@
 #  License: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)
 #
 # ----------------------------------------------------------------------------------------------------
-# How to cite:
-# N/A
+# How to cite:  https://doi.org/10.5281/zenodo.6337124
 ########################################################################
